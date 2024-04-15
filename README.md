@@ -14,17 +14,17 @@ Overall, this code demonstrates my understanding of various data science techniq
 
 The results and discussion encompass various aspects of the analysis, including descriptive statistics, performance metrics for machine learning models, hypothesis testing, variables distribution, and recommendations for system improvement.
 
-Descriptive Statistics: Figures 4 and 6 provide insights into the numerical dataset's standard deviation, mean distribution, minimum values, and percentile distributions. Additionally, Figure 7 shows the dataset's initial state, indicating the presence of empty rows that required manual input for analysis.
+Descriptive Statistics provide insights into the numerical dataset's standard deviation, mean distribution, minimum values, and percentile distributions. Additionally, Figure 7 shows the dataset's initial state, indicating the presence of empty rows that required manual input for analysis.
 
-Machine Learning Models: The KNN classifier achieved an accuracy of 50%, which was enhanced through grid search tuning. In contrast, the Random Forest classifier had an accuracy of only 2.1%, indicating inferior performance compared to KNN.
+Machine Learning Models The KNN classifier achieved an accuracy of 50%, which was enhanced through grid search tuning. In contrast, the Random Forest classifier had an accuracy of only 2.1%, indicating inferior performance compared to KNN.
 
-Recommendation System Visualization: Figure 9 presents a bubble chart illustrating connections between educational background, desired firm, industry, and career type, facilitating trend-spotting in job seeker preferences.
+Recommendation System Visualization presents a bubble chart illustrating connections between educational background, desired firm, industry, and career type, facilitating trend-spotting in job seeker preferences.
 
 Chi-Square Test depict the chi-squared test analysis for correlating categorical parameters, such as academic discipline and projected income, and their significance in contributing to the recommendation system.
 
 T-Test Hypothesis:shows the results of the one-sample t-test conducted on the dataset, exploring the distribution of the tested variable (age) and its correlation with the recommendation system.
 
-Variables Distribution: Figures 18-22 display the distribution of features like salary expectation and age, providing insights into their associations.
+Variables Distribution display the distribution of features like salary expectation and age, providing insights into their associations.
 
 Testing Accuracy compares accuracy scores for different K values in logistic regression and KNN models, essential for assessing model effectiveness.
 
